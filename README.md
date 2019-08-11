@@ -3,17 +3,10 @@ Manage the hostel in digital and efficient way.
 
 # Screenshots
 
-<img src = "Screenshots/1.JPG" width = 400>
-<img src = "Screenshots/2.JPG" width = 400>
-<img src = "Screenshots/3.JPG" width = 400>
-<img src = "Screenshots/4.JPG" width = 400>
-<img src = "Screenshots/5.JPG" width = 400>
-<img src = "Screenshots/6.JPG" width = 400>
-<img src = "Screenshots/7.JPG" width = 400>
-<img src = "Screenshots/8.JPG" width = 400>
-<img src = "Screenshots/9.JPG" width = 400>
-<img src = "Screenshots/10.JPG" width = 400>
-<img src = "Screenshots/11.JPG" width = 400>
-<img src = "Screenshots/12.JPG" width = 400>
-<img src = "Screenshots/13.JPG" width = 400>
-<img src = "Screenshots/14.JPG" width = 400>
+<img src="Screenshots/1.png" width=300 hspace="20" ><span><img src="Screenshots/2.png" width=300 >
+<img src="Screenshots/3.png" width=300 hspace="20"> <img src="Screenshots/4.png" width=300 >
+<img src="Screenshots/5.png" width=300 hspace="20"> <img src="Screenshots/6.png" width=300 >
+<img src="Screenshots/7.png" width=300 hspace="20"> <img src="Screenshots/8.png" width=300 >
+<img src="Screenshots/9.png" width=300 hspace="20"> <img src="Screenshots/10.png" width=300 >
+<img src="Screenshots/11.png" width=300 hspace="20"> <img src="Screenshots/12.png" width=300 >
+<img src="Screenshots/13.png" width=300 hspace="20"> <img src="Screenshots/14.png" width=300 >
